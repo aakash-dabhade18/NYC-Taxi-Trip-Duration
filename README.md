@@ -7,8 +7,7 @@ Task is to build a model that predicts the total ride duration of taxi trips in 
 ## 💾 Project Files Description :
  - This repository includes 1 colab notebook (.ipynb) file.
  - 1 pdf file of project presentation.
- - Dataset.
- - Problem-Statement (Pdf)
+ - Problem-Statement (With DataSet Link)
  - Requirements.txt
 
  ## 📋Objective :
